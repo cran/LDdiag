@@ -1,0 +1,17 @@
+6ccb97f51825c40cebb6c594a941394d *DESCRIPTION
+d47debaa62834676b835c576b1114c29 *NAMESPACE
+46e8d1a6c47b0ad4e66cfb935e122be0 *R/Copas.R
+ce9206ddceb005e56fc9032900b4bc72 *R/linkpick.R
+c34f4f9b01c6c427537bcf883a4f5035 *R/modifiedHL.R
+8c33131f2494e4eb12c0a1cc72d737af *R/park.R
+f89a87d15342b9277da3b2f531053dbf *R/pcorr.R
+acc61e54bcfdae290bde23dda490cb0f *R/pregibon.R
+8c394bf043578c9ef2b98697ef514c08 *R/ramsey.R
+5a8f4ffe81695be727ab3e7c3a9e1d63 *man/Copas.Rd
+7d6aecd0d776c7de5ee53af578fb330e *man/LDdiag.Rd
+33ba331185f5c0c2409838153afa3abc *man/linkpick.Rd
+75e766658e511802ed7d311f793f4aa1 *man/modifiedHL.Rd
+bb75e787d53491c7247b7eb38f94b492 *man/park.Rd
+1a1843260380b7de7ad306badad0b2fb *man/pcorr.Rd
+859a7d4f0fd0e3ea32ce683fb4c12663 *man/pregibon.Rd
+9c7107c619f8379c9065a8f4ad72f0ea *man/ramsey.Rd
